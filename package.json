@@ -1,0 +1,23 @@
+{
+  "name": "words",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodemon words",
+  "scripts": {
+    "start": "nodemon words"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdmondWang/words.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdmondWang/words/issues"
+  },
+  "homepage": "https://github.com/EdmondWang/words#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
