@@ -1,29 +1,29 @@
 const words = `
-accord, apple, apply, application, arm, auto, almost,
+accord, apple, apply, application, arm, auto, almost, animation, advertisement,
 
 build, base, brave, baker, big, but, because,
 
 cute, cow, collection, coach, coast, core, cost, code, cool, cold, com, cake, car, cast, career, convert, celebrate,
-catch, camera, case, cafe, coffee, cell, carbon, calendar, cause
+catch, camera, case, cafe, coffee, cell, carbon, calendar, cause,
 
-dog, delete
+dog, delete, degree, disagree, dig, device, door, dart, down,
 
-eye, editor, edit, else, empty
+eye, editor, edit, else, empty,
 
 front, float, floor, forgive, for, force, forever, fragment, fire, figure, french, favourite, farewell, foundation, framework,
-firework, follow, family
+firework, follow, family, fade,
 
-grade, grow, garden, give, gift, gather, go, get, glad
+grade, grow, garden, give, gift, gather, go, get, glad,
 
-honda, hire, human, hover, housr, horse, harm, have, how, however, hello, history, horizontal, happy, hole
+honda, hire, human, hover, housr, horse, harm, have, how, however, hello, history, horizontal, happy, hole, help,
 
-icon, information, if, illegal, illness, important, insert,
+icon, information, if, illegal, illness, important, insert, increase,
 
-jest, jam, just, jungle
+jest, jam, just, jungle,
 
 kitchen, kind, kindness,
 
-large, light, load, lazy, layout, layer, last, like, length
+large, light, load, lazy, layout, layer, last, like, length, list,
 
 memory, mountain, most, more, model, modal, moto,
 
@@ -31,21 +31,21 @@ new, never, near, nearby, nest,
 
 often, omit, old,
 
-pull, push, pollute, pillar, pick, paradise, put, puppy, people, person, package, plan
+pull, push, pollute, pillar, pick, paradise, put, puppy, people, person, package, plan, pixel,
 
 queue,
 
-recent, recall, reply, real, really, reduce, red, renew, right, rough,
+recent, recall, reply, real, really, reduce, red, renew, right, rough, rotate, relation,
 
 stage, star, scroll, style, sheet, small, sea, season, select, schema, slot, sudden,
 
-thing, tiny, tired, traffic, tower, table, that, this, those, these, then,
+thing, tiny, tired, traffic, tower, table, that, this, those, these, then, task, transform, translate,
 
-unique, update, urgent
+unique, update, urgent,
 
 visit, view, vehicle, visa,
 
-world, word, what, when, why, where, whether
+world, word, what, when, why, where, whether,
 
 xerox,
 
