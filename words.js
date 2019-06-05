@@ -27,6 +27,6 @@ year,
 zoo, zoom
 `;
 
-const arr = words.split(',');
+const knowns = new Set(words.split(','));
 
-console.log(`Total: ${arr.length}`);
+console.log(`Total: ${knowns.size}`);
