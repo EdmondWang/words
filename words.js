@@ -1,57 +1,61 @@
 const words = `
 accord, apple, apply, application, arm, auto, almost, animation, advertisement, alert, angry, angela, autumn, army, ask, automatic, airplane,
-aircraft, along, align, allow, abort, accept, amazing, anticlock, array,
+aircraft, along, align, allow, abort, accept, amazing, anticlock, array, America, above,
 
 build, base, brave, baker, big, but, because, bubble, bump, bundle, bag, badge, budget, ball, blue, bootstrap, bus, busy,
-boom, bug, buffet, ban, boolean, bill, bear, blue, box, border, beautiful, bind,
+boom, bug, buffet, ban, boolean, bill, bear, blue, box, border, beautiful, bind, boot, board, beef, bullet, below,
 
 cute, cow, collet, collection, coach, coast, core, cost, code, cool, cold, com, cake, car, cast, career, convert, celebrate,
 catch, camera, case, cafe, coffee, cell, carbon, calendar, cause, confirm, computer, class, classified, classification, category,
 collaboration, choose, choice, charm, corp, cover, city, configure, configuration, contribute, contribution, combine, compose, consult,
-commuicate, commuication, chair, clarify, clock, create, creative, creation, character,
+commuicate, commuication, chair, clarify, clock, create, creative, creation, character, commit, commander,
 
 data, date, damage, definition, delegate, distation, die, dog, delete, degree, disagree, dig, device, door, dart, down, do, dial,
-door, downtown, dry, dumpling,
+door, downtown, dry, dumpling, dare,
 
-eye, editor, edit, else, empty, effect, east, estimate, earn, earning, elephant, every,
+eye, editor, edit, else, empty, effect, east, estimate, earn, earning, elephant, every, energy, east,
 
-far, fast, father, further, front, float, floor, flower, forgive, for, force, forever, fragment, fire, figure, french, favourite, farewell, foundation, framework,
-firework, follow, family, fade, fell, finger, fly, fee, fish, filter, function,
+far, fast, father, further, front, float, floor, flower, forgive, for, force, forever, fragment, fire, figure, french, favourite, farewell,
+foundation, framework, firework, follow, family, fade, fell, finger, fly, fee, fish, filter, function, fax, fix, fit, famous, factory, facade,
+farm, farmer,
 
-grade, grow, garden, give, gift, gather, go, get, glad, gallery, gentle, green, grey, gray,
+grade, grow, garden, give, gift, gather, go, get, glad, gallery, gentle, green, grey, gray, German,
 
 honda, hire, human, hover, hourse, horse, harm, have, how, however, hello, history, horizontal, happy, hole, help, hold, height, haven
-handsome, have, has, host, hostname, hile, hat,
+handsome, have, has, host, hostname, hile, hat, hard,
 
 icon, information, if, illegal, illness, important, insert, increase, install,
 
-jest, jam, just, jungle, java,
+jest, jam, just, jungle, java, Japan, job,
 
-kitchen, kind, kindness, keyboard, key, knife, kindom, king,
+kitchen, kind, kindness, keyboard, key, knife, kindom, king, Korea,
 
-laptop, law, lawer, large, light, load, lazy, layout, layer, last, lemon, like, length, list, late, land, lord, less, least, lease,
-lion, line, light, love, laugh,
+laptop, law, lawer, large, light, load, lazy, lady, layout, layer, last, lemon, like, length, list, late, land, lord, less, least, lease,
+lion, line, light, love, laugh, lock, left,
 
-math, memory, method, mountain, most, more, mock, model, mode, modal, moon, moto, myth, meat, meal, mongo, middle, margin,
+math, memory, method, mountain, most, more, mock, model, mode, modal, moon, moto, myth, meat, meal, mongo, middle, margin, mechasim,
+mask,
 
-new, never, near, nearby, nest, negative, nut, noodle,
+new, never, near, nearby, nest, negative, nut, noodle, north,
 
 often, omit, old, office, outline, obey,
 
-pull, push, pollute, pillar, pick, paradise, put, puppy, people, person, package, plan, pixel, promotion, ping, peace,
-play, playground, plain, physical, phone, premium, professional, pen, power, property, potato, plus, pay, paper, prototype,
+padding, package, pull, push, pollute, pillar, pick, paradise, put, puppy, people, person, package, plan, pixel, promotion, ping, peace,
+play, playground, plain, physical, phone, premium, professional, pen, power, property, potato, plus, pay, paper, prototype, pool, pizza,
 
-queue, question, quick, quarter, quality, padding,
+queue, question, quick, quarter, quality,
 
 recent, recall, reply, real, really, reduce, red, renew, right, rough, rotate, relation, roll, rotate, rectangle, read, reset, recall,
-repository, related, road,
+repository, related, road, rocket, Russia, rectangle,
 
 stage, star, scroll, style, sheet, small, sea, season, select, schema, slot, sudden, spring, story, south, soft, shutdown,
-seat, slow, smooth, string, state, storm, sense, stand, sum, some, sofa, string,
+seat, slow, smooth, string, state, storm, sense, stand, sum, some, sofa, string, start, service, server, security, secure, survey,
+science, swim, size, status,
 
-thing, tiny, tired, traffic, tower, table, that, this, those, these, then, task, transform, translate, the, test,
+thing, tiny, tired, traffic, tower, table, that, this, those, these, then, task, transform, translate, the, test, think, thinking,
+triangle,
 
-unique, update, urgent, unified, uninstall, united, upstair,
+unique, update, urgent, unified, uninstall, united, upstair, United State, up,
 
 visit, view, vehicle, visa, vote, vector, volumne,
 
@@ -61,7 +65,7 @@ xerox,
 
 year, yeal, yellow, yard,
 
-zoo, zoom, zip, zipcode
+zealot, zoo, zoom, zip, zipcode, zone,
 
 `;
 
