@@ -2,9 +2,9 @@
   "name": "words",
   "version": "1.0.0",
   "description": "",
-  "main": "nodemon words",
+  "main": "nodemon index",
   "scripts": {
-    "start": "nodemon words"
+    "start": "nodemon index"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/EdmondWang/words#readme",
   "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/register": "^7.4.4",
     "nodemon": "^1.19.1"
   }
 }
