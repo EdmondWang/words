@@ -1,17 +1,10 @@
 let words = '';
 
-['a', 'b', 'c', 'd'].forEach((letter) => {
+['a', 'b', 'c', 'd', 'e', 'f', 'g'].forEach((letter) => {
     words = words + (require(`./letters/${letter}`)) + ',';
 });
 
-words = words + `eye, editor, edit, else, empty, effect, east, estimate, earn, earning, elephant, every, energy, east,
-
-far, fast, father, further, front, float, floor, flower, forgive, for, force, forever, fragment, fire, figure, french, favourite, farewell,
-foundation, framework, firework, follow, family, fade, fell, finger, fly, fee, fish, filter, function, fax, find, fix, fit, famous, factory, facade,
-farm, farmer,
-
-grade, grow, garden, give, gift, gather, go, get, glad, gallery, gentle, green, grey, gray, German, gold, good, gun,
-
+words = words + `
 honda, hire, human, hover, hourse, horse, harm, have, how, however, hello, history, horizontal, happy, hole, help, hold, height, haven
 handsome, have, has, host, hostname, hile, hat, hard, home,
 
