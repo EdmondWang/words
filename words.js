@@ -1,20 +1,10 @@
 let words = '';
 
-['a', 'b'].forEach((letter) => {
-    words = words + (require(`./letters/${letter}`));
+['a', 'b', 'c', 'd'].forEach((letter) => {
+    words = words + (require(`./letters/${letter}`)) + ',';
 });
 
-words = words + `
-cute, cow, collet, collection, coach, coast, core, cost, code, cool, cold, com, cake, car, cast, career, convert, celebrate,
-catch, camera, case, cafe, coffee, cell, carbon, calendar, cause, confirm, computer, class, classified, classification, category,
-collaboration, choose, choice, charm, corp, cover, city, configure, configuration, contribute, contribution, combine, compose, consult,
-commuicate, commuication, chair, clarify, clock, create, creative, creation, character, commit, commander, cat, curve, clone, could,
-cloud,
-
-data, date, damage, definition, delegate, distation, die, dog, delete, degree, demo, disagree, dig, device, door, dart, down, do, dial,
-door, downtown, dry, dumpling, dare,
-
-eye, editor, edit, else, empty, effect, east, estimate, earn, earning, elephant, every, energy, east,
+words = words + `eye, editor, edit, else, empty, effect, east, estimate, earn, earning, elephant, every, energy, east,
 
 far, fast, father, further, front, float, floor, flower, forgive, for, force, forever, fragment, fire, figure, french, favourite, farewell,
 foundation, framework, firework, follow, family, fade, fell, finger, fly, fee, fish, filter, function, fax, find, fix, fit, famous, factory, facade,
