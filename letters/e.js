@@ -1,5 +1,6 @@
 let letter = `
-eye, editor, edit, else, empty, effect, east, estimate, earn, earning, elephant, every, energy, east
+eye, editor, edit, else, empty, effect, east, estimate, earn, earning, elephant, every, energy, east, eight, elevan,
+element
 `;
 
 module.exports = letter;

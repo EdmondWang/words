@@ -1,7 +1,7 @@
 let letter = `
-padding, package, pull, push, pollute, pillar, pick, paradise, put, puppy, people, person, package, plan, pixel, promotion, ping, peace,
+page, pagination, padding, package, pull, push, pollute, pillar, pick, paradise, put, puppy, people, person, package, plan, pixel, promotion, ping, peace,
 play, playground, plain, physical, phone, premium, professional, pen, power, property, potato, plus, pay, paper, prototype, pool, pizza,
-puppy, police
+puppy, police, please
 `;
 
 module.exports = letter;
