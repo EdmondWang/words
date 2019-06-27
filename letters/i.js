@@ -1,5 +1,5 @@
 let letter = `
-icon, information, if, illegal, illness, important, insert, increase, install, input
+ice, icon, information, if, illegal, illness, important, insert, increase, install, input, int, integer
 `;
 
 module.exports = letter;
